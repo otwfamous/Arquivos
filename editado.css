@@ -1,0 +1,13 @@
+div.headline{
+	color: yellow!important;
+}
+
+@media only screen and (max-width: 500px) {
+	.fullwidth ul.playlist li.with-image {
+		margin-left: 140px !important;
+	}
+
+	.fullwidth ul.playlist li .cover {
+		display: block !important;
+	}
+}
