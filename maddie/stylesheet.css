@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Lucky Racer';
+    src: url('LuckyRacer.eot');
+    src: url('LuckyRacer.eot?#iefix') format('embedded-opentype'),
+        url('LuckyRacer.woff2') format('woff2'),
+        url('LuckyRacer.woff') format('woff'),
+        url('LuckyRacer.ttf') format('truetype'),
+        url('LuckyRacer.svg#LuckyRacer') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
